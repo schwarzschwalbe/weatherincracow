@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather in Cracow</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_weather">Current weather</string>
+    <string name="clouds">Clouds</string>
+    <string name="forecast">Forecast</string>
+    <string name="weather_forecast">Weather forecast</string>
+</resources>
